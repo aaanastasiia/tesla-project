@@ -3,4 +3,4 @@ ___
 
 This is my final project in Web HTML/CSS module at Web Hero School.
 
-You can see the result [here](https://github.com/aaanastasiia/tesla-project).
+You can see the result [here](https://aaanastasiia.github.io/tesla-project/).
